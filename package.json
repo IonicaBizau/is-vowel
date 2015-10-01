@@ -1,0 +1,31 @@
+{
+  "name": "is-vowel",
+  "version": "1.0.0",
+  "description": "Checks if an input letter is a vowel or not.",
+  "main": "lib/index.js",
+  "directories": {
+    "example": "example"
+  },
+  "dependencies": {
+    "vowels": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/IonicaBizau/is-vowel.git"
+  },
+  "keywords": [
+    "vowel",
+    "check",
+    "letter"
+  ],
+  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "license": "KINDLY",
+  "bugs": {
+    "url": "https://github.com/IonicaBizau/is-vowel/issues"
+  },
+  "homepage": "https://github.com/IonicaBizau/is-vowel#readme"
+}
