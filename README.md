@@ -5,7 +5,7 @@ Checks if an input letter is a vowel or not.
 ## Installation
 
 ```sh
-$ npm i -g is-vowel
+$ npm i is-vowel
 ```
 
 ## Example
