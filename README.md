@@ -1,14 +1,18 @@
+
 # is-vowel [![PayPal](https://img.shields.io/badge/%24-paypal-f39c12.svg)][paypal-donations] [![Version](https://img.shields.io/npm/v/is-vowel.svg)](https://www.npmjs.com/package/is-vowel) [![Downloads](https://img.shields.io/npm/dt/is-vowel.svg)](https://www.npmjs.com/package/is-vowel) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
 
 > Checks if an input letter is a vowel or not.
 
-## Installation
+## :cloud: Installation
 
 ```sh
 $ npm i --save is-vowel
 ```
 
-## Example
+
+## :clipboard: Example
+
+
 
 ```js
 // Dependencies
@@ -24,7 +28,8 @@ console.log(IsVowel("c"));
 // => false
 ```
 
-## Documentation
+## :memo: Documentation
+
 
 ### `IsVowel(input)`
 Checks if the input is a vowel.
@@ -35,19 +40,21 @@ Checks if the input is a vowel.
 #### Return
 - **Boolean** `true`, if the input is a vowel, `false` otherwise.
 
-## How to contribute
+
+
+## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
 
-## Where is this library used?
+## :dizzy: Where is this library used?
 If you are using this library in one of your projects, add it in this list. :sparkles:
 
- - [`khaan`](https://github.com/zuzak/node-khaan) by Douglas Gardner
 
- - [`name-it`](https://github.com/IonicaBizau/name-it#readme)
+ - [`khaan`](https://github.com/zuzak/node-khaan) (by Douglas Gardner)—Word elongator
+ - [`name-it`](https://github.com/IonicaBizau/name-it#readme)—Generate project names from given keywords.
+ - [`never-bored`](https://github.com/geekytime/never-bored#readme) (by GeekyTime)—Generate 100s of fun and easy activities for kids to do on their own.
+ - [`unvowel-last`](https://github.com/IonicaBizau/unvowel-last#readme)—Removes the last letter from a string if it is a vowel.
 
- - [`unvowel-last`](https://github.com/IonicaBizau/unvowel-last#readme)
-
-## License
+## :scroll: License
 
 [MIT][license] © [Ionică Bizău][website]
 
