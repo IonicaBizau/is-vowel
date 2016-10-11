@@ -1,6 +1,6 @@
 {
   "name": "is-vowel",
-  "version": "1.2.4",
+  "version": "1.2.5",
   "description": "Checks if an input letter is a vowel or not.",
   "main": "lib/index.js",
   "directories": {
@@ -32,6 +32,7 @@
     "bin/",
     "app/",
     "lib/",
+    "build/",
     "dist/",
     "src/",
     "resources/",
