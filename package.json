@@ -1,6 +1,6 @@
 {
   "name": "is-vowel",
-  "version": "1.2.5",
+  "version": "1.2.6",
   "description": "Checks if an input letter is a vowel or not.",
   "main": "lib/index.js",
   "directories": {
@@ -22,7 +22,7 @@
     "check",
     "letter"
   ],
-  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "author": "Ionică Bizău <bizauionica@gmail.com> (https://ionicabizau.net)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/IonicaBizau/is-vowel/issues"
@@ -32,12 +32,11 @@
     "bin/",
     "app/",
     "lib/",
-    "build/",
     "dist/",
     "src/",
+    "scripts/",
     "resources/",
     "menu/",
-    "scripts/",
     "cli.js",
     "index.js"
   ]
