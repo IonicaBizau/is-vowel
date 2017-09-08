@@ -6,6 +6,7 @@ You can see below the API reference of this module.
 Checks if the input is a vowel.
 
 #### Params
+
 - **String** `input`: The input letter.
 
 #### Return
