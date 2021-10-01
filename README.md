@@ -29,7 +29,7 @@
 
 
 
-> Checks if an input letter is a vowel or not.
+> Checks if an input letter is a vowel or not. Make sure the input is first a valid string first before we check if it contains vowels.
 
 
 
