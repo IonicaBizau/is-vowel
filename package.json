@@ -3,6 +3,9 @@
   "version": "1.2.11",
   "description": "Checks if an input letter is a vowel or not.",
   "main": "lib/index.js",
+  "contributors": [
+    "Desiderio Silva <desideriotbs@gmail.com> (https://github.com/dsilva01)"
+ ],
   "directories": {
     "example": "example"
   },
