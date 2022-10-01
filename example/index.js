@@ -9,3 +9,9 @@ console.log(IsVowel("e"));
 
 console.log(IsVowel("c"));
 // => false
+
+console.log(IsVowel("á"));
+// => true
+
+console.log(IsVowel("ê"));
+// => false
