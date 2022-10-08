@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Check_Vowel</title>
+</head>
+<body>
+<script>
+    var ch;
+    function Check_Vowel(){
+    ch = document.getElementById("char").val;
+    if(ch){
+    temp = document.getElementById("respara");
+    temp.style.display = "block";
+    if((ch>='a' && ch<='z') || (ch>='A' && ch<='Z')) {
+       if(ch == 'a' || ch == 'e' || ch =='i' || ch == 'o' || ch == 'u' ) 
+          document.getElementById("res").innerHTML = "a vowel";
+       else if(ch == 'A' || ch == 'E' || ch =='I' || ch == 'O' || ch == 'U' )
+        document.getElementById("res").innerHTML = "a vowel";
+        else{
+            document.getElementById("res").innerHTML = "a consonant";
+         }
+     }
+        else {
+             document.getElementById("res").innerHTML = "neither vowel nor consonant";
+        }
+    }
+
+ }
+ </script>
+</body>
+    <p> Enter the Character : <input id="char"><button onclick="checkVowel()">Check</button></p>
+     <p id="resPara" style="display:none"> It is <span id="res"></span></p>
+</html>
