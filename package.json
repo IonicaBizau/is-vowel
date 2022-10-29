@@ -1,10 +1,11 @@
 {
   "name": "is-vowel",
-  "version": "1.2.11",
+  "version": "1.2.12",
   "description": "Checks if an input letter is a vowel or not.",
   "main": "lib/index.js",
   "contributors": [
-    "Desiderio Silva <desideriotbs@gmail.com> (https://github.com/dsilva01)"
+    "Desiderio Silva <desideriotbs@gmail.com> (https://github.com/dsilva01)",
+    "Daniel Castillo <danielcastillo59814@ciencias.unam.mx> (https://github.com/DanyDolphin)"
   ],
   "directories": {
     "example": "example"
